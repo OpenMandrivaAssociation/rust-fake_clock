@@ -5,8 +5,8 @@
 %global crate fake_clock
 
 Name:           rust-%{crate}
-Version:        0.3.0
-Release:        7%{?dist}
+Version:        0.3.1
+Release:        1%{?dist}
 Summary:        Fake clock for deterministic testing of code depending on time
 
 # Upstream license specification: GPL-3.0
